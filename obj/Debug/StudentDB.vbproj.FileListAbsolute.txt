@@ -1,0 +1,13 @@
+E:\Assignments\StudentDB\StudentDB\bin\Debug\StudentDB.exe
+E:\Assignments\StudentDB\StudentDB\bin\Debug\StudentDB.pdb
+E:\Assignments\StudentDB\StudentDB\bin\Debug\StudentDB.xml
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.Form1.resources
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.Resources.resources
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.vbproj.GenerateResource.Cache
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.exe
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.xml
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.pdb
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.FrmInsert.resources
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.FrmList.resources
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.FrmDelete.resources
+E:\Assignments\StudentDB\StudentDB\obj\Debug\StudentDB.FrmUpdate.resources
